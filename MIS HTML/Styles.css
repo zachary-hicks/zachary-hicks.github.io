@@ -1,0 +1,29 @@
+h1 { color: black;
+text-decoration: underline; }
+	
+
+h2 { font-size: 100%; }
+body {
+		background: lightblue;
+		color: black;
+font-size: 14pt;}
+
+h3 { font-size: 100%; }
+
+
+nav li {
+	display: underline: inline-block: black
+	border: underline;
+	background: lightblue;
+	padding: 10px
+	margin: 20px;
+}
+
+
+
+a { color: black;
+text-decoration: none }
+a:hover { color: blue }
+
+table, th, td { border: 1px solid black; border-collapse: collapse }
+
